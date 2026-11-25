@@ -1,0 +1,11 @@
+Tenure,MonthlyCharges,TotalCharges,Churn,Gender_Male,Contract_One year,Contract_Two year,InternetService_Fiber optic,PaymentMethod_Credit card,PaymentMethod_Electronic check
+12,70,840,1,1,0,0,1,1,0
+24,60,1440,0,0,1,0,0,0,0
+5,80,400,1,1,0,0,1,0,1
+36,55,1980,0,0,0,1,0,1,0
+8,75,600,1,1,0,0,1,0,1
+48,50,2400,0,0,0,1,0,0,0
+15,65,975,0,1,1,0,1,1,0
+3,85,255,1,0,0,0,1,0,1
+60,45,2700,0,1,0,1,0,0,0
+10,78,780,1,0,0,0,1,0,1
